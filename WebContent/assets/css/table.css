@@ -1,0 +1,22 @@
+@charset "ISO-8859-1";
+
+
+div {
+    border-radius: 5px;
+    background-color:#f1f1f1;
+    padding: 20px;
+    color: black;
+    align-content: center;
+}
+.background-image {
+	 background-image: url("assets/images/background2.jpg");
+ 	 background-filter:2px;
+    background-size:     cover;                      /* <------ */
+    background-repeat:   no-repeat;
+    background-position: center;   
+
+}
+.btn{
+ background-color: gray;
+}
+
